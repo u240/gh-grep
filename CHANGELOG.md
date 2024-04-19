@@ -1,3 +1,19 @@
+## [v1.2.1](https://github.com/u240/gh-grep/compare/v0.10.0...v1.2.1) - 2024-04-19
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/1
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/2
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/3
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/4
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/5
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/6
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/7
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/8
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/10
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/11
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/12
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/13
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/14
+- [pull] main from k1LoW:main by @pull in https://github.com/u240/gh-grep/pull/15
+
 ## [v1.2.1](https://github.com/k1LoW/gh-grep/compare/v1.2.0...v1.2.1) - 2023-10-12
 - Bump golang.org/x/net from 0.12.0 to 0.17.0 by @dependabot in https://github.com/k1LoW/gh-grep/pull/47
 
